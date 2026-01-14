@@ -43,8 +43,8 @@
 <div align="center">
   <br>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorvhlc&theme=transparent" alt="Linguagens" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorvhlc&theme=transparent" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorHugo-Neo&theme=transparent" alt="Linguagens" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorHugo-Neo&theme=transparent" alt="Stats" />
 </div>
 <br>
 <h2 align="center">Contact</h2>
